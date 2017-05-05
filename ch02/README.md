@@ -78,4 +78,4 @@ All these are done in Ubuntu v16.04 4.4.0-75-generic x86_64 platform.
 
 - Steps explains
 
- [Compiling Linux kernel and running it using QEMU](https://nostillsearching.wordpress.com/2012/09/22/compiling-linux-kernel-and-running-it-using-qemu/) (NOTICE: you'd better download the same version kernel source code which you are using(uanme -r), or you may cause many problems)
+    [Compiling Linux kernel and running it using QEMU](https://nostillsearching.wordpress.com/2012/09/22/compiling-linux-kernel-and-running-it-using-qemu/) (NOTICE: you'd better download the same version kernel source code which you are using(uanme -r), or you may cause many problems)
