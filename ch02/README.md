@@ -42,6 +42,8 @@ Step8: menu config, choose what you need or not:
 
     make menuconfig
 
+    (NOTICE: please unselect the first option <64-bit kernel>, we only build 32-bit kernel)
+
 Step9: make:
 
     make all && make modules
