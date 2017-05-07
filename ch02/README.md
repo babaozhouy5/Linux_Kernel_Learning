@@ -1,6 +1,6 @@
-# Setup Platform
+# Setup Platform & Run you own kernel(include process schedule)
 
-It is a platform to write your own Linux OS kernel, it's based on Linux Kernel 4.4.0 source code.
+In this chapter, we will leran to setup platform to write your own Linux OS kernel, it's based on Linux Kernel 4.4.0 source code.
 
 ## Steps
 
@@ -33,6 +33,7 @@ Step5: decompress the file:
 Step6: apply patch:
 
     cd linux-4.4.0 && patch -p1 < ../mykernel_for_linux.4.4.0sc.patch
+    cp -R ../mykernel .  # we will add process schedule here
 
 Step7: generate default config file:
 

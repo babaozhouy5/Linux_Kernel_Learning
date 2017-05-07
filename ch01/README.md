@@ -1,4 +1,4 @@
-## Explanation
+# Assemble c source code with gcc
 
 In this chapter, we learn how to use gcc to compile assemble file (.s) from c source code (.c), and read the assemble file.
 
