@@ -1,6 +1,6 @@
 # Create our own rootfs & Debug linux kernel
 
-In this chapter, we will create a rootfs which contains a **init** program, it has these commands----`help`, `vresion`, `quit`, `time`, `time-asm`. And then we will try to debug linux kernel with gdb debug tools. It just follows https://github.com/mengning/menu
+In this chapter, we will create a rootfs which contains a **init** program, it has these commands----`help`, `version`, `quit`, `time`, `time-asm`. And then we will try to debug linux kernel with gdb debug tools. It just follows https://github.com/mengning/menu
 
 ## Create our own rootfs
 
